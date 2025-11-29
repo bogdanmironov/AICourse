@@ -32,7 +32,7 @@ Algorithms & Summary:
 
 ---
 
-### 5. Naive Bayes Classifier (Python)
+### 5. Naive Bayes Classifier (Homework 5)
 Summary:
 - Complete implementation of a **multinomial Naive Bayes** classifier.
 - Includes Laplace smoothing, log-probability inference, and k-fold cross-validation.
@@ -40,7 +40,7 @@ Summary:
 
 ---
 
-### 6. Decision Tree with Pre- & Post-Pruning (Python)
+### 6. Decision Tree with Pre- & Post-Pruning (Homework 6)
 Summary:
 - Manually implemented **decision tree classifier** with:
   - Information gain (entropy-based)
@@ -51,7 +51,7 @@ Summary:
 
 ---
 
-### 7. K-Means and K-Means++ (Python)
+### 7. K-Means and K-Means++ (Homework 7)
 Summary:
 - Implements **K-Means clustering** with:
   - Random initialization  
@@ -62,7 +62,7 @@ Summary:
 
 ---
 
-### 8. Fully-Handwritten Neural Network (Python)
+### 8. Fully-Handwritten Neural Network (Homework 8)
 **Manually implemented — no frameworks used.**
 
 Summary:
